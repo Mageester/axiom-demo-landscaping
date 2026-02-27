@@ -30,7 +30,7 @@ const DispatcherHeader: React.FC = () => (
 const Hero: React.FC = () => (
   <section className="relative min-h-[85vh] flex items-center justify-center pt-24 pb-12 px-4 overflow-hidden">
     <div className="absolute inset-0 z-0">
-      <img src="https://images.unsplash.com/photo-1558904541-efa843a96f0f?auto=format&fit=crop&w=1600&q=80" alt="Premium Landscaped Garden" className="w-full h-full object-cover origin-center" />
+      <img src="https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1600&q=80" alt="Premium Landscaped Garden" className="w-full h-full object-cover origin-center" />
       <div className="absolute inset-0 bg-emerald-950/60 mix-blend-multiply"></div>
       <div className="absolute inset-x-0 bottom-0 h-48 bg-gradient-to-t from-stone-50 to-transparent"></div>
     </div>
